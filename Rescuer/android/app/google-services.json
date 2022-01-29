@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "554958842939",
+    "project_id": "security-app-6a651",
+    "storage_bucket": "security-app-6a651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554958842939:android:4b36a4880fb0ab404fc01e",
+        "android_client_info": {
+          "package_name": "com.rescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554958842939-7ptkahrmsvdqneamuehoqckvavlucotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOVrI3kHsbG0Erndp9IOH7MH9Cx1Pi54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554958842939-7ptkahrmsvdqneamuehoqckvavlucotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554958842939:android:ed9d708b87048a1b4fc01e",
+        "android_client_info": {
+          "package_name": "com.rescuer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554958842939-7ptkahrmsvdqneamuehoqckvavlucotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOVrI3kHsbG0Erndp9IOH7MH9Cx1Pi54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554958842939-7ptkahrmsvdqneamuehoqckvavlucotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
